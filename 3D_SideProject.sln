@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D_SideProject", "Assembly-CSharp.csproj", "{F40BF13B-B0A4-50DE-9736-948489C43179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F40BF13B-B0A4-50DE-9736-948489C43179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40BF13B-B0A4-50DE-9736-948489C43179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40BF13B-B0A4-50DE-9736-948489C43179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40BF13B-B0A4-50DE-9736-948489C43179}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
